@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdfcdab2-de97-4cb7-aff3-800c2fc603c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/все лабы/lab2/лаб2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/все лабы/dopolnitelnye zadanya/dop.zadaine1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/все лабы/dopolnitelnye zadanya/dop.zadanie2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/все лабы/dopolnitelnye zadanya/dop.zadanie3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/все лабы/dopolnitelnye zadanya/synonyms.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/все лабы/dopolnitelnye zadanya/trek.wav" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,14 +40,56 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\gggg\все лабы\dopolnitelnye zadanya" />
       <recent name="D:\gggg\все лабы\лаб4" />
       <recent name="D:\gggg\все лабы\лаб5" />
       <recent name="D:\gggg\все лабы\лаб7" />
       <recent name="D:\gggg\все лабы\лаб11-12" />
-      <recent name="D:\gggg\все лабы\лаб10" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.dop.zadanie3">
+    <configuration name="dop.zadanie2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gggg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/все лабы/dopolnitelnye zadanya" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/все лабы/dopolnitelnye zadanya/dop.zadanie2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dop.zadanie3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gggg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/все лабы/dopolnitelnye zadanya" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/все лабы/dopolnitelnye zadanya/dop.zadanie3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="gggg" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,6 +111,12 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dop.zadanie3" />
+        <item itemvalue="Python.dop.zadanie2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -75,6 +127,18 @@
       <option name="presentableId" value="Default" />
       <updated>1684499172673</updated>
     </task>
+    <task id="LOCAL-00001" summary="lab2">
+      <created>1685020323286</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685020323286</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab2" />
   </component>
 </project>
